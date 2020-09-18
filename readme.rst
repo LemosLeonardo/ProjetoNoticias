@@ -21,4 +21,5 @@ guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide
 *******************
 Versões
 *******************
+
 Versão base - Todos os arquivos necessários para o funcionamento da aplicação.
