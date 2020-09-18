@@ -1,0 +1,44 @@
+a {
+    text-decoration: none !important;
+}
+
+.bg-azul-escuro {
+    background-color: rgb(0, 0, 73) !important;
+}
+
+.bg-azulzinho {
+    background-color: rgb(175, 175, 255)!important;
+}
+
+.bg-black {
+    background-color: rgb(0, 0, 0)!important;
+}
+
+.bg-cinza {
+    background-color: rgba(0, 0, 0, 0.233)!important;
+}
+
+.fundo:hover {
+    background-color: rgba(0, 0, 0, 0.068)!important;
+    padding: 10px !important;
+}
+
+.text-azul {
+    color: rgb(32, 32, 144) !important;
+}
+
+.link1:hover {
+    font-weight: 600;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+
+/* .dropdown-item:hover,
+.dropdown-item:focus {
+    color: #ffffff !important;
+    text-decoration: none !important;
+    background-color: #49a1ff65!important;
+} */
