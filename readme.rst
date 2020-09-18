@@ -7,16 +7,8 @@ O Projeto Portal Notícias é um trabalho para a matéria de Programação Web I
 *******************
 Importante
 *******************
-Para executar o projeto em sua máquina, é recomendado que antes de abrir a aplicação no "localhost", a pasta do projeto seja renomeada para "ProjetoNoticias".
-
+Para executar o projeto no "localhost" de sua máquina, é recomendado que renomeie pasta do projeto para "ProjetoNoticias".
 Obs: Não esqueça de subir o seu servidor antes ;)
-
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
 
 *******************
 Versões
