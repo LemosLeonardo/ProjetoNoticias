@@ -3,6 +3,7 @@ Sobre o Projeto
 ###################
 
 O Projeto Portal Notícias é um trabalho para a matéria de Programação Web III do curso técnico em Desenvolvimento de Sistemas (Etec - Barueri).
+DS3-2020
 
 *******************
 Importante
