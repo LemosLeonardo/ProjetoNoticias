@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('../fonts/Roboto-Light.ttf');
+}
+
+* {
+    font-family: 'Roboto-Light';
+}
+
 a {
     text-decoration: none !important;
 }
@@ -20,19 +29,31 @@ a {
 
 .fundo:hover {
     background-color: rgba(0, 0, 0, 0.068)!important;
-    padding: 10px !important;
+    padding: 2px !important;
 }
 
 .text-azul {
     color: rgb(32, 32, 144) !important;
 }
 
-.link1:hover {
-    font-weight: 600;
-}
-
 .navbar-light .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.barra-lateral a {
+    display: block;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 100%;
+}
+
+.barra-lateral a:hover {
+    background-color: rgba(0, 0, 0, 0.027);
+    padding-left: 10px;
+    border-left: 3px blue solid;
+    font-weight: 900;
 }
 
 

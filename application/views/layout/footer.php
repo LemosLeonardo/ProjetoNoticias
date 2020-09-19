@@ -43,7 +43,7 @@
 </div>
 <div class="bg-azulzinho text-light">
     <!-- <div class="pt-2"></div> -->
-    <div class="row py-4 px-2 text-center text-azul">
+    <!-- <div class="row py-4 px-2 text-center text-azul">
         <div class="col-sm-12 col-md-4 pt-2 d-none d-md-block">
             <h4>Portal Notícias</h4>
             <p class="text-justify">
@@ -66,7 +66,7 @@
                 <i class="phone icon"></i> +55(11)94567-8792
             </p>
         </div>
-    </div>
+    </div> -->
     <div class="text-center py-4 bg-azul-escuro">
         <p class="">
             &copy; Portal Notícias - 2020<br>Todos os direitos reservados

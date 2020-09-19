@@ -20,7 +20,7 @@
       <button class="navbar-toggler border border-light d-sm-block d-md-none" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse text-center" id="navbarNav">
+      <div class="collapse navbar-collapse text-center " id="navbarNav">
         <ul class="navbar-nav pt-4">
           <li class="nav-item active">
             <a class="nav-link text-light" href="<?php echo site_url('home') ?>">Home</a>
@@ -39,6 +39,8 @@
           </li>
         </ul>
       </div>
+
+
     </nav>
   </div>
   <div class="py-4"></div>
@@ -49,23 +51,17 @@
 
     <div class="row bg-white">
       <div class="d-none d-md-block col-md-3 bg-light border border-right border-muted">
-        <div class="pl-3 pt-2">
-
-          <div class="py-2">
-            <a href="<?php echo site_url('home') ?>" class="text-decoration-none link1">Home</a>
-          </div>
-          <div class="py-2">
-            <a href="<?php echo site_url('usuario/login') ?>" class="text-decoration-none link1">Login</a>
-          </div>
-          <div class="py-2">
-            <a href="<?php echo site_url('usuario/cadastro') ?>" class="text-decoration-none link1">Cadastre-se</a>
-          </div>
-          <div class="py-2">
-            <a href="<?php echo site_url('politica') ?>" class="text-decoration-none link1">Política e privacidade</a>
-          </div>
-          <div class="py-2">
-            <a href="<?php echo site_url('sobre') ?>" class="text-decoration-none link1">Sobre</a>
-          </div>
+        <div class=" pt-2 barra-lateral">
+            <a href="<?php echo site_url('home') ?>" class="text-decoration-none ">Home</a>
+          <hr>
+          <a href="<?php echo site_url('usuario/login') ?>" class="text-decoration-none ">Login</a>
+          <hr>         
+          <a href="<?php echo site_url('usuario/cadastro') ?>" class="text-decoration-none ">Cadastre-se</a>
+          <hr>
+          <a href="<?php echo site_url('politica') ?>" class="text-decoration-none ">Política e privacidade</a>
+          <hr>          
+          <a href="<?php echo site_url('sobre') ?>" class="text-decoration-none ">Sobre</a>
+          
         </div>
       </div>
       <div class="container-fluid bg-white col-sm-12 col-md-9 animate__animated animate__fadeIn">
